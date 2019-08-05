@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1565001934 source:/home/shakyaninja/Documents/Dictionary_final/main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+

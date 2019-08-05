@@ -1,0 +1,6 @@
+hello               
+world of doom                           
+apple
+name of fruit
+zebra
+name of animal
